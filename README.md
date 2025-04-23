@@ -259,9 +259,3 @@ Potential enhancements for the project:
 6. **Assembler/Disassembler**: Add ability to convert between binary and assembly
 7. **GUI Interface**: Create a graphical interface for easier interaction
 8. **Debugging Tools**: Add breakpoints, memory inspection, and step execution
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Copyright (c) 2017 Komma Ravi Teja
